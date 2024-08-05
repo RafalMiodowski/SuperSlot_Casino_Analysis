@@ -1,6 +1,5 @@
 # SuperSlot_Casino_Analysis
 Data analysis project for an online casino simulation
-# SuperSlot Casino Analysis
 
 ## Project Overview
 This project simulates and analyzes the operations of an online casino. It aims to generate realistic data that reflects the actual conditions in a casino environment, enabling various analytical tasks to gain insights into player behavior, game performance, and financial outcomes.
